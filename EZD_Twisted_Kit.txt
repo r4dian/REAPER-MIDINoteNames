@@ -1,0 +1,109 @@
+//Reaper drum map for EZD Twisted Kit
+127	[Rattles]	Crescendo
+126	[Rattles]	On Beat
+125	[Rattles]	Off Beat
+124	[Mouth]	On Beat
+123	[Mouth]	Off Beat
+122	[Hand Dr]	Muted
+121	[Hand Dr]	Open
+120	[Hand Dr]	Open
+119	[Hand Dr]	Muted
+118	[Hand Dr]	Hand
+117	[Hand Dr]	alias
+116	[Clangers]	On Beat
+115	[Clangers]	Off Beat
+114	[Clangers]	Hit
+113	[Clangers]	alias
+112	[4 Tone]	Pitch 1
+111	[4 Tone]	Pitch 2
+110	[4 Tone]	Pitch 3
+109	[4 Tone]	Pitch 4
+108	[FX Box]	Accordeon
+107	[FX Box]	Thunder Hit
+106	[FX Box]	Thunder SkR
+105	[FX Box]	Ratchet
+104	[FX Box]	Duck Quack
+103	[FX Box]	Siren Long
+102	[FX Box]	Siren Short
+101	[FX Box]	Train Long
+100	[FX Box]	Train Short
+99	[FX Box]	Cow Moo
+98	[One Shot]	Brushed DH
+97	[One Shot]	Bowl Hit
+96	[One Shot]	Spoxe/WBk
+95	[One Shot]	Cakepan
+94	[One Shot]	Tamb/Gong
+93	[One Shot]	Tamb/WBk
+92	[One Shot]	Hubcap
+91	[Body]	Hands Body
+90	[Body]	Mth On Beat
+89	[Body]	Mth Off Beat
+88	[Body]	Zip On Beat
+87	[Body]	Zip Off Beat
+86	[Body]	Hand Claps
+85	[Body]	Hand Breath
+84	[Body]	Chest Hit
+83	[Body]	Stairstep
+82		
+81		
+80		
+79		
+78		
+77		
+76		
+75		
+74		
+73		
+72		
+71	[Snare Alt]	Center
+70	[Snare Alt]	alias
+69	[Snare Alt]	alias
+68	[Brush FX]	Tap
+67	[Brush FX]	alias
+66	[Brush FX]	alias
+65	[Hi-Hat]	Seq Soft
+64	[Hi-Hat]	Seq hard
+63	[Hi-Hat]	Tight Tip
+62	[Hi-Hat]	Tight Edge
+61	[Hi-Hat]	Closed Tip
+60	[Hi-Hat]	Open Max
+59	[Ride FX]	Tamb/Gong
+58	[FX]	Cakepan
+57	[Crasher 2]	Crashed
+56	[Special]	Tamb/WBk
+55	[FX]	Hubcap
+54	[Tamb]	Muted
+53	[Ride FX]	Spoxe/WBk
+52	[China 2]	Crashed
+51	[Ride FX]	Bowl Hit
+50	[Crasher 2]	alias
+49	[Crasher 1]	Crashed
+48	[CH Tom 1]	Center
+47	[CH Tom 2]	Center
+46	[HH]{GM}	Open
+45	[CH Tom 3]	Center
+44	[HH]{GM}	Pedal
+43	[CH Tom 4]	Center
+42	[HH]{GM}	Closed
+41	[Djembe]	Center
+40	[Snare]	Rimshot
+39	[FX]	Claps
+38	[Snare]	Center
+37	[Snare]	Sidestick
+36	[Kick]	Hit
+35	[Kick]	alias
+34	[Kick]	alias
+33	[Snare]	alias
+32	[Crasher 2]	Punch
+31	[China 2]	alias
+30	[Crasher 1]	alias
+29	[China 1]	alias
+28	[Hi-Hat]	alias
+27	[Hi-Hat]	Crashed
+26	[Hi-Hat]	Open 3
+25	[Hi-Hat]	Open 2
+24	[Hi-Hat]	Open 1
+23	[Hi-Hat]	Open Pedal
+22	[Hi-Hat]	Closed Edge
+21	[Hi-Hat]	Closed Pedal
+20	[Hi-Hat]	CC Variable
