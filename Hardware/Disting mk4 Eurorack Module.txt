@@ -1,0 +1,7 @@
+# Disting mk4 Eurorack Module
+# Mode G-7
+
+CC33 Output A -5v - 5v
+CC34 Output B -5v - 5v
+CC35 Output A 0v - 10v
+CC36 Output B 0v - 10v

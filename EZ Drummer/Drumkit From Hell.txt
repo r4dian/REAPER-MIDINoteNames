@@ -1,0 +1,78 @@
+# Reaper drum map for EZD Drumkit from Hell
+
+117	[Crash Rd 2]	Bell
+116	[Crash Rd 2]	Bow
+115	[Crash Rd 2]	Edge
+114	[Crash Rd 2]	alias
+113	[Crash Rd 2]	alias
+112	[Crash Rd 2]	alias
+111	[Crash Rd 2]	alias
+110	[China 2]	Crashed
+109	[China 2]	Edge
+108	[China 2]	Bow
+
+# ... 
+
+87	[Crash Rd 1]	Crescendo
+86	[Crash Rd 1]	Edge
+85	[Crash Rd 1]	Bell
+84	[Crash Rd 1]	Bow
+83	[Cymbal 1]	alias
+82	[Racktom 1]	Flam
+81	[Racktom 1]	alias
+80	[Racktom 2]	Flam
+79	[Racktom 2]	alias
+78	[Racktom 3]	Flam
+77	[Racktom 3]	alias
+76	[Cymbal 2]	Crescendo
+75	[Floortom 1]	Flam
+74	[Floortom 1]	alias
+73	[Floortom 2]	Flam
+72	[Floortom 2]	alias
+71	[Snare]	alias
+70	[Snare]	alias
+69	[Snare]	Flam
+
+# ...
+
+60	[Hi-Hat]	Open Max
+59	[Ride]	Edge
+58	[Cymbal 2]	Muted
+57	[Cymbal 2]	Crashed
+56	[Ride]	alias
+55	[Splash 1]	Crashed
+54	[Cymbal 1]	alias
+53	[Ride]	Bell
+52	[China 2]	Crashed
+51	[Ride]	Bow
+50	[Cymbal 1]	Muted
+49	[Cymbal 1]	Crashed
+48	[Racktom 1]	Center
+47	[Racktom 2]	Center
+46	[HH]{GM}	Open
+45	[Racktom 3]	Center
+44	[HH]{GM}	Pedal
+43	[Floortom 1]	Center
+42	[HH]{GM}	Closed
+41	[Floortom 2]	Center
+40	[Snare]	Rimshot
+39	[Snare]	Ruff
+38	[Snare]	Center
+37	[Snare]	Sidestick
+36	[Kick]	Hit
+35	[Kick]	alias
+34	[Kick]	alias
+33	[Snare]	alias
+32	[Crash Rd 2]	Crashed
+31	[Splash 3]	Crashed
+30	[Splash 2]	Crashed
+29	[Spock]	Crashed
+28	[Crash Rd 1]	Crashed
+27	[China 1]	Crashed
+26	[Hi-Hat]	Open 3
+25	[Hi-Hat]	Open 2
+24	[Hi-Hat]	Open 1
+23	[Hi-Hat]	Open Pedal
+22	[Hi-Hat]	Closed
+21	[Hi-Hat]	Closed Pedal
+20	[Hi-Hat]	CC Variable

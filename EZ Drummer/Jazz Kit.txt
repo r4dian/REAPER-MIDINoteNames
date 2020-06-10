@@ -1,0 +1,55 @@
+# Reaper drum map for EZD Jazz Kit
+
+121	[Hats]	Open Bell 2
+120	[Hats]	Open Bell 1
+119	[Hats]	Closed Bell
+118	[Ride]	Muted
+117	[Ride]	Bell Tip
+116	[Ride]	Ride Shank
+
+#...
+
+63	[Hats]	Tight Tip
+62	[Hats]	Tight Edge
+61	[Hats]	Closed Tip
+60	[Hats]	Open Max
+59	[Ride]	Edge
+58	[Ride]	Muted
+57	[Ride]	Edge
+56	[Ride]	Bell Tip
+55	[Crash]	Crashed
+54	[Crash]	Muted
+53	[Ride]	Bell Shank
+52	[Ride]	Ride Shank
+51	[Ride]	Ride Tip
+50	[Crash]	Muted
+49	[Crash]	Crashed
+48	[Racktom 1]	Center
+47	[Racktom 2]	Center
+46	[Hats]{GM}	Open
+45	[Racktom 2]	Center
+44	[Hats]{GM}	Pedal
+43	[Floortom 1]	Center
+42	[Hats]{GM}	Closed
+41	[Floortom]	Center
+40	[Snare]	Rimshot
+39	[Snare]	Half Circle
+38	[Snare]	Center
+37	[Snare]	Sidestick
+36	[Kick]	Hit
+35	[Kick]	Open
+34	[Kick]	Hit
+33	[Snare]	alias
+32	[Ride]	Edge
+31	[Ride]	alias
+30	[Ride]	alias
+29	[Crash]	Crashed
+28	[Crash]	alias
+27	[Crash]	alias
+26	[Hats]	Open 3
+25	[Hats]	Open 2
+24	[Hats]	Open 1
+23	[Hats]	Open Pedal
+22	[Hats]	Closed Edge
+21	[Hats]	Closed Pedal
+20	[Hats]	CC Variable
